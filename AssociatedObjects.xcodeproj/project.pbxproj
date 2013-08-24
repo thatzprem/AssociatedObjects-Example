@@ -59,17 +59,25 @@
 			children = (
 				3B1C2EDE17C8D22D00B8BE77 /* AppDelegate.h */,
 				3B1C2EDF17C8D22D00B8BE77 /* AppDelegate.m */,
+				3B1C2EEA17C8D22D00B8BE77 /* ViewController.h */,
+				3B1C2EEB17C8D22D00B8BE77 /* ViewController.m */,
+				3B1C2EE717C8D22D00B8BE77 /* ViewController.xib */,
+			);
+			path = AssociatedObjects;
+			sourceTree = "<group>";
+		};
+		3B1E243517C8D46400747720 /* SupportingFiles */ = {
+			isa = PBXGroup;
+			children = (
 				3B1C2EE017C8D22D00B8BE77 /* AssociatedObjects-Info.plist */,
 				3B1C2EE117C8D22D00B8BE77 /* AssociatedObjects-Prefix.pch */,
 				3B1C2EE217C8D22D00B8BE77 /* Default-568h@2x.png */,
 				3B1C2EE317C8D22D00B8BE77 /* Default.png */,
 				3B1C2EE417C8D22D00B8BE77 /* Default@2x.png */,
 				3B1C2EE517C8D22D00B8BE77 /* InfoPlist.strings */,
-				3B1C2EE717C8D22D00B8BE77 /* ViewController.xib */,
 				3B1C2EE917C8D22D00B8BE77 /* main.m */,
-				3B1C2EEA17C8D22D00B8BE77 /* ViewController.h */,
-				3B1C2EEB17C8D22D00B8BE77 /* ViewController.m */,
 			);
+			name = SupportingFiles;
 			path = AssociatedObjects;
 			sourceTree = "<group>";
 		};
@@ -77,6 +85,7 @@
 			isa = PBXGroup;
 			children = (
 				3B1C2EDD17C8D22D00B8BE77 /* AssociatedObjects */,
+				3B1E243517C8D46400747720 /* SupportingFiles */,
 				3B98B9F2179D100A00153B7A /* Frameworks */,
 				3B98B9F1179D100A00153B7A /* Products */,
 			);
